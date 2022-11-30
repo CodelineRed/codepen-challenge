@@ -20,18 +20,18 @@
         "jquery"
     ],
     "author": {
-        "name": "InsanityMeetsHH",
-        "email": "software@insanitymeetshh.net",
-        "url": "https://www.insanitymeetshh.net"
+        "name": "CodelineRed",
+        "email": "software@codelinered.net",
+        "url": "https://www.codelinered.net"
     },
     "bugs": {
-        "url": "https://github.com/InsanityMeetsHH/codepen-challenge/issues"
+        "url": "https://github.com/CodelineRed/codepen-challenge/issues"
     },
     "license": "MIT",
-    "homepage": "http://cpc.insanitymeetshh.net",
+    "homepage": "https://cpc.codelinered.net",
     "repository": {
         "type": "git",
-        "url": "git://github.com/InsanityMeetsHH/codepen-challenge.git"
+        "url": "git://github.com/CodelineRed/codepen-challenge.git"
     },
     "devDependencies": {
         "browser-sync": "^2.26.7",

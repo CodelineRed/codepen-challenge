@@ -1,6 +1,6 @@
-# CodePen Challenge - InsanityMeetsHH
+# CodePen Challenge - CodelineRed
 
-[**Demo page**](http://cpc.insanitymeetshh.net)
+[**Demo page**](https://cpc.codelinered.net)
 
 ## Required
 * [Node.js](http://nodejs.org/en/download/)
@@ -10,13 +10,13 @@
 
 ## Installation (Recommended)
 ```bash
-$ git clone https://github.com/InsanityMeetsHH/codepen-challenge.git [project-name]
+$ git clone https://github.com/CodelineRed/codepen-challenge.git [project-name]
 $ cd [project-name]
 $ rm -rf .git
 $ npm i
 $ gulp build
 ```
-Change `localServer` in [`gulpfile-config.json`](https://github.com/InsanityMeetsHH/gulp-templating/blob/master/gulpfile-config.dist.json) to your local server.
+Change `localServer` in [`gulpfile-config.json`](https://github.com/CodelineRed/gulp-templating/blob/master/gulpfile-config.dist.json) to your local server.
 
 Possible local servers (examples): http://imhh-cpc.localhost/ or http://localhost/imhh-cpc/public/.
 
@@ -29,8 +29,8 @@ Possible local servers (examples): http://imhh-cpc.localhost/ or http://localhos
 | gulp font     | copy font                                                                                                       |
 | gulp img      | compress/copy img                                                                                               |
 | gulp js       | uglify/minify/concat js                                                                                         |
-| gulp jsLint   | checks js follows [lint rules](https://github.com/InsanityMeetsHH/gulp-templating/blob/master/js-lint.json)     |
+| gulp jsLint   | checks js follows [lint rules](https://github.com/CodelineRed/gulp-templating/blob/master/js-lint.json)     |
 | gulp scss     | compile/minify/concat scss                                                                                      |
-| gulp scssLint | checks scss follows [lint rules](https://github.com/InsanityMeetsHH/gulp-templating/blob/master/scss-lint.json) |
+| gulp scssLint | checks scss follows [lint rules](https://github.com/CodelineRed/gulp-templating/blob/master/scss-lint.json) |
 | gulp svg      | compress/copy svg                                                                                               |
 | gulp watch    | watch scss, js, img, font and svg files                                                                         |
